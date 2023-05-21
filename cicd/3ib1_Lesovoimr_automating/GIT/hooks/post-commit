@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo $(cppcheck /home/spital/Desktop/cicd/pr3/src/)
