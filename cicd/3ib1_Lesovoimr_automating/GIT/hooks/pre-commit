@@ -1,4 +1,0 @@
-#!/bin/sh
-
-echo "Commits"
-echo $(git log -3)
